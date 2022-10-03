@@ -1,0 +1,16 @@
+/*.footer_bottom {*/
+/*  position: fixed;*/
+/*  bottom: 0;*/
+/*  width: 100%;*/
+/*  background-color: #181c20;*/
+/*  !*background-color: #3c3c3c;*!*/
+/*  !*background-color: #333333;*!*/
+/*  opacity: 95%;*/
+/*}*/
+
+.footer_position {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(52,58,64);
+}

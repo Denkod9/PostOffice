@@ -1,0 +1,19 @@
+.modal__margin {
+}
+
+.modal__margin .block {
+    margin-left: 50pt;
+    width: 320px;
+}
+
+.modal__margin .modal__margin__header {
+    margin-top: 25pt;
+}
+
+.close_modal button {
+    border: none;
+    background-color: white;
+    position: absolute;
+    left: 90%;
+    top: 3%;
+}

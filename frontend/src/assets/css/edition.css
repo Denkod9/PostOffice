@@ -1,0 +1,10 @@
+
+
+.close_modal button {
+    border: none;
+    background-color: white;
+    position: absolute;
+    left: 90%;
+    top: 3%;
+}
+
