@@ -32,6 +32,7 @@ urlpatterns = [
 
     # apps
     path('accounts/', include('accounts.urls')),
+    path('admin_options/', include('admin_options.urls')),
     path('editions/', include('editions.urls')),
     path('postman/', include('postman.urls')),
     path('address/', include('address.urls')),

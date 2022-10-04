@@ -48,7 +48,6 @@ INSTALLED_APPS = [
     'rest_framework',
     'phonenumber_field',
     'djoser',
-    'dbbackup',
 
     # apps
     'accounts',
@@ -57,6 +56,7 @@ INSTALLED_APPS = [
     'address',
     'delivery',
     'districts',
+    'admin_options',
 
     'social_django',
     'rest_framework_simplejwt',
@@ -115,32 +115,22 @@ WSGI_APPLICATION = 'app.wsgi.application'
 #         'PORT': '3306',
 #     }
 # }
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3',
+#     }
+# }
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
-    }
-}
-
-# Backups
-DBBACKUP_STORAGE = 'django.core.files.storage.FileSystemStorage'
-DBBACKUP_STORAGE_OPTIONS = {
-    'location': os.path.join(BASE_DIR, 'backups')
-}
-DBBACKUP_FILENAME_TEMPLATE = '{datetime}-{databasename}.{extension}'
-DBBACKUP_MEDIA_FILENAME_TEMPLATE = '{datetime}-media.{extension}'
-
-DBBACKUP_CONNECTORS = {
-    'default': {
-        # 'ENGINE': 'dbbackup.db.mysql.MysqlDumpConnector',
-        'NAME': 'auth_system',
-        'USER': 'root',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'post_office',
+        'USER': 'phantom',
         'PASSWORD': 'Aa1234568',
         'HOST': 'localhost',
-        'PORT': '3306',
+        'PORT': '5432',
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators

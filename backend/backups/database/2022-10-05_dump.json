@@ -1,0 +1,4596 @@
+[
+{
+  "model": "accounts.useraccount",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": true,
+    "email": "a@a.com",
+    "first_name": "admin",
+    "last_name": "admin",
+    "date_of_birth": "1994-05-04",
+    "role": "ADMIN",
+    "phone": "+79567131707",
+    "address": 51,
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": true,
+    "email": "politsa042@gmail.com",
+    "first_name": "Den",
+    "last_name": "Pro",
+    "date_of_birth": "1991-04-03",
+    "role": "MANAGER",
+    "phone": "+79531321513",
+    "address": 51,
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": true,
+    "email": "politsa044@gmail.com",
+    "first_name": "Den",
+    "last_name": "Pro",
+    "date_of_birth": "1991-04-03",
+    "role": "OPERATOR",
+    "phone": "+79539233113",
+    "address": 51,
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "valentinsidorov110@gmail.com",
+    "first_name": "Валентин",
+    "last_name": "Сидоров",
+    "date_of_birth": "1989-08-21",
+    "role": "SUBSCRIBER",
+    "phone": "+79418496356",
+    "address": 1,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "kseniyamalysheva342@gmail.com",
+    "first_name": "Ксения",
+    "last_name": "Малышева",
+    "date_of_birth": "2000-07-29",
+    "role": "SUBSCRIBER",
+    "phone": "+79451132924",
+    "address": 2,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "seliverstkudryavtsev60@gmail.com",
+    "first_name": "Селиверст",
+    "last_name": "Кудрявцев",
+    "date_of_birth": "1984-01-01",
+    "role": "SUBSCRIBER",
+    "phone": "+79907283591",
+    "address": 3,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "larisatihomirova547@gmail.com",
+    "first_name": "Лариса",
+    "last_name": "Тихомирова",
+    "date_of_birth": "2000-01-18",
+    "role": "SUBSCRIBER",
+    "phone": "+79415323535",
+    "address": 4,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 8,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "nikamironova213@gmail.com",
+    "first_name": "Ника",
+    "last_name": "Миронова",
+    "date_of_birth": "1985-06-20",
+    "role": "SUBSCRIBER",
+    "phone": "+79414652435",
+    "address": 5,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 9,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "melanyazagitova804@gmail.com",
+    "first_name": "Меланья",
+    "last_name": "Загитова",
+    "date_of_birth": "1986-05-09",
+    "role": "SUBSCRIBER",
+    "phone": "+79241297878",
+    "address": 6,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 10,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "maksimilyandidichenko499@gmail.com",
+    "first_name": "Максимильян",
+    "last_name": "Дидиченко",
+    "date_of_birth": "2002-04-19",
+    "role": "SUBSCRIBER",
+    "phone": "+79675358815",
+    "address": 7,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 11,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "liyakrasnova274@gmail.com",
+    "first_name": "Лия",
+    "last_name": "Краснова",
+    "date_of_birth": "1986-04-02",
+    "role": "SUBSCRIBER",
+    "phone": "+79957216138",
+    "address": 8,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 12,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "osipmamedov859@gmail.com",
+    "first_name": "Осип",
+    "last_name": "Мамедов",
+    "date_of_birth": "1987-05-22",
+    "role": "SUBSCRIBER",
+    "phone": "+79046077158",
+    "address": 9,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 13,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "kallistratkukolevskiy66@gmail.com",
+    "first_name": "Каллистрат",
+    "last_name": "Куколевский",
+    "date_of_birth": "1987-10-16",
+    "role": "SUBSCRIBER",
+    "phone": "+79023027810",
+    "address": 10,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 14,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "serafimchernyshov6@gmail.com",
+    "first_name": "Серафим",
+    "last_name": "Чернышов",
+    "date_of_birth": "1988-07-01",
+    "role": "SUBSCRIBER",
+    "phone": "+79811606702",
+    "address": 11,
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 15,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "rozaandreeva541@gmail.com",
+    "first_name": "Роза",
+    "last_name": "Андреева",
+    "date_of_birth": "1983-07-08",
+    "role": "SUBSCRIBER",
+    "phone": "+79991109767",
+    "address": 12,
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 16,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "modestkrymskiy539@gmail.com",
+    "first_name": "Модест",
+    "last_name": "Крымский",
+    "date_of_birth": "1993-10-25",
+    "role": "SUBSCRIBER",
+    "phone": "+79314338372",
+    "address": 13,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 17,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "dominikarodochinskaya566@gmail.com",
+    "first_name": "Доминика",
+    "last_name": "Родочинская",
+    "date_of_birth": "1999-08-05",
+    "role": "SUBSCRIBER",
+    "phone": "+79425122920",
+    "address": 14,
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 18,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "vladilenarzaeva32@gmail.com",
+    "first_name": "Владилена",
+    "last_name": "Рзаева",
+    "date_of_birth": "1995-02-28",
+    "role": "SUBSCRIBER",
+    "phone": "+79549034940",
+    "address": 15,
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 19,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "karppodorozhnyy214@gmail.com",
+    "first_name": "Карп",
+    "last_name": "Подорожный",
+    "date_of_birth": "1996-08-30",
+    "role": "SUBSCRIBER",
+    "phone": "+79063083384",
+    "address": 16,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 20,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "agniyadidichenko676@gmail.com",
+    "first_name": "Агния",
+    "last_name": "Дидиченко",
+    "date_of_birth": "1983-09-21",
+    "role": "SUBSCRIBER",
+    "phone": "+79031751348",
+    "address": 17,
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 21,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "emmaprosvetova396@gmail.com",
+    "first_name": "Эмма",
+    "last_name": "Просветова",
+    "date_of_birth": "1977-12-25",
+    "role": "SUBSCRIBER",
+    "phone": "+79990265076",
+    "address": 18,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 22,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "beatrisastalina36@gmail.com",
+    "first_name": "Беатриса",
+    "last_name": "Сталина",
+    "date_of_birth": "1996-05-13",
+    "role": "SUBSCRIBER",
+    "phone": "+79241902766",
+    "address": 19,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 23,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "bernarlapin395@gmail.com",
+    "first_name": "Бернар",
+    "last_name": "Лапин",
+    "date_of_birth": "1976-08-31",
+    "role": "SUBSCRIBER",
+    "phone": "+79058347369",
+    "address": 20,
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 24,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "nataliyaohotnikova319@gmail.com",
+    "first_name": "Наталия",
+    "last_name": "Охотникова",
+    "date_of_birth": "1994-10-31",
+    "role": "SUBSCRIBER",
+    "phone": "+79683912350",
+    "address": 21,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 25,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "samsonveshtiy544@gmail.com",
+    "first_name": "Самсон",
+    "last_name": "Вещий",
+    "date_of_birth": "2002-09-13",
+    "role": "SUBSCRIBER",
+    "phone": "+79686811313",
+    "address": 22,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 26,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "vladislavzhdanov898@gmail.com",
+    "first_name": "Владислав",
+    "last_name": "Жданов",
+    "date_of_birth": "1993-10-17",
+    "role": "SUBSCRIBER",
+    "phone": "+79765151820",
+    "address": 23,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 27,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "svyatopolkvasyutin796@gmail.com",
+    "first_name": "Святополк",
+    "last_name": "Васютин",
+    "date_of_birth": "1987-09-15",
+    "role": "SUBSCRIBER",
+    "phone": "+79571784795",
+    "address": 24,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 28,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "matveyzhdanov642@gmail.com",
+    "first_name": "Матвей",
+    "last_name": "Жданов",
+    "date_of_birth": "1972-10-01",
+    "role": "SUBSCRIBER",
+    "phone": "+79081786933",
+    "address": 25,
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 29,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "radasergeeva283@gmail.com",
+    "first_name": "Рада",
+    "last_name": "Сергеева",
+    "date_of_birth": "1984-12-17",
+    "role": "SUBSCRIBER",
+    "phone": "+79212509359",
+    "address": 26,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 30,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "innokentiysokolov404@gmail.com",
+    "first_name": "Иннокентий",
+    "last_name": "Соколов",
+    "date_of_birth": "1984-07-24",
+    "role": "SUBSCRIBER",
+    "phone": "+79490481849",
+    "address": 27,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 31,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "hristoforrepin413@gmail.com",
+    "first_name": "Христофор",
+    "last_name": "Репин",
+    "date_of_birth": "1977-08-19",
+    "role": "SUBSCRIBER",
+    "phone": "+79085187954",
+    "address": 28,
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 32,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "mariyakozhina223@gmail.com",
+    "first_name": "Мария",
+    "last_name": "Кожина",
+    "date_of_birth": "1982-12-09",
+    "role": "SUBSCRIBER",
+    "phone": "+79607287397",
+    "address": 29,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 33,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "arkadiyyakovenko992@gmail.com",
+    "first_name": "Аркадий",
+    "last_name": "Яковенко",
+    "date_of_birth": "1988-06-10",
+    "role": "SUBSCRIBER",
+    "phone": "+79453260561",
+    "address": 30,
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 34,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "angelinaegorova319@gmail.com",
+    "first_name": "Ангелина",
+    "last_name": "Егорова",
+    "date_of_birth": "1998-12-25",
+    "role": "SUBSCRIBER",
+    "phone": "+79421160371",
+    "address": 31,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 35,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "anatoliypolyakov90@gmail.com",
+    "first_name": "Анатолий",
+    "last_name": "Поляков",
+    "date_of_birth": "1986-08-21",
+    "role": "SUBSCRIBER",
+    "phone": "+79985809266",
+    "address": 32,
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 36,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "nikonrubentsov738@gmail.com",
+    "first_name": "Никон",
+    "last_name": "Рубенцов",
+    "date_of_birth": "1997-04-23",
+    "role": "SUBSCRIBER",
+    "phone": "+79861774083",
+    "address": 33,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 37,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "antonidadementeva640@gmail.com",
+    "first_name": "Антонида",
+    "last_name": "Дементьева",
+    "date_of_birth": "2000-09-19",
+    "role": "SUBSCRIBER",
+    "phone": "+79710042878",
+    "address": 34,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 38,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "elenashmidt124@gmail.com",
+    "first_name": "Елена",
+    "last_name": "Шмидт",
+    "date_of_birth": "1988-11-05",
+    "role": "SUBSCRIBER",
+    "phone": "+79299280259",
+    "address": 35,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 39,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "viktorshapovalov74@gmail.com",
+    "first_name": "Виктор",
+    "last_name": "Шаповалов",
+    "date_of_birth": "1981-03-05",
+    "role": "SUBSCRIBER",
+    "phone": "+79309950363",
+    "address": 36,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 40,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "valeryanvirskiy430@gmail.com",
+    "first_name": "Валерьян",
+    "last_name": "Вирский",
+    "date_of_birth": "1995-04-18",
+    "role": "SUBSCRIBER",
+    "phone": "+79281025151",
+    "address": 37,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 41,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "gremislavmilovanov716@gmail.com",
+    "first_name": "Гремислав",
+    "last_name": "Милованов",
+    "date_of_birth": "1991-01-18",
+    "role": "SUBSCRIBER",
+    "phone": "+79554447769",
+    "address": 38,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 42,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "yuriylavrentev905@gmail.com",
+    "first_name": "Юрий",
+    "last_name": "Лаврентьев",
+    "date_of_birth": "1992-12-21",
+    "role": "SUBSCRIBER",
+    "phone": "+79478540489",
+    "address": 39,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 43,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "liliyasorokina282@gmail.com",
+    "first_name": "Лилия",
+    "last_name": "Сорокина",
+    "date_of_birth": "1988-01-05",
+    "role": "SUBSCRIBER",
+    "phone": "+79082365815",
+    "address": 40,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 44,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "iraidazagitova758@gmail.com",
+    "first_name": "Ираида",
+    "last_name": "Загитова",
+    "date_of_birth": "1982-03-01",
+    "role": "SUBSCRIBER",
+    "phone": "+79753097089",
+    "address": 41,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 45,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "evgeniyashapovalova332@gmail.com",
+    "first_name": "Евгения",
+    "last_name": "Шаповалова",
+    "date_of_birth": "1991-02-18",
+    "role": "SUBSCRIBER",
+    "phone": "+79667367968",
+    "address": 42,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 46,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "marinaizofatova182@gmail.com",
+    "first_name": "Марина",
+    "last_name": "Изофатова",
+    "date_of_birth": "1983-04-14",
+    "role": "SUBSCRIBER",
+    "phone": "+79948188434",
+    "address": 43,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 47,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "georgiysharipov632@gmail.com",
+    "first_name": "Георгий",
+    "last_name": "Шарипов",
+    "date_of_birth": "1994-03-21",
+    "role": "SUBSCRIBER",
+    "phone": "+79842677781",
+    "address": 44,
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 48,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "naumlevchenko365@gmail.com",
+    "first_name": "Наум",
+    "last_name": "Левченко",
+    "date_of_birth": "1992-05-10",
+    "role": "SUBSCRIBER",
+    "phone": "+79586492232",
+    "address": 45,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 49,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "miheyefimov142@gmail.com",
+    "first_name": "Михей",
+    "last_name": "Ефимов",
+    "date_of_birth": "1986-02-19",
+    "role": "SUBSCRIBER",
+    "phone": "+79294814127",
+    "address": 46,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 50,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "fadeyantonov570@gmail.com",
+    "first_name": "Фадей",
+    "last_name": "Антонов",
+    "date_of_birth": "1981-04-11",
+    "role": "SUBSCRIBER",
+    "phone": "+79464303462",
+    "address": 47,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 51,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "antoninmartynov116@gmail.com",
+    "first_name": "Антонин",
+    "last_name": "Мартынов",
+    "date_of_birth": "2004-05-18",
+    "role": "SUBSCRIBER",
+    "phone": "+79815620690",
+    "address": 48,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 52,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "agrafenashershova863@gmail.com",
+    "first_name": "Аграфена",
+    "last_name": "Шершова",
+    "date_of_birth": "1989-11-02",
+    "role": "SUBSCRIBER",
+    "phone": "+79077140655",
+    "address": 49,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.useraccount",
+  "pk": 53,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$RgEMctXIR4bJBdULPdoyZV$CEJ2saiy01sxniWbhl0yslxn7xO/14Uj8yZZ2QAXXww=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "izotartimovich654@gmail.com",
+    "first_name": "Изот",
+    "last_name": "Артимович",
+    "date_of_birth": "2002-09-21",
+    "role": "SUBSCRIBER",
+    "phone": "+79894806493",
+    "address": 50,
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "editions.editiontype",
+  "pk": 1,
+  "fields": {
+    "type_name": "Журнал"
+  }
+},
+{
+  "model": "editions.editiontype",
+  "pk": 2,
+  "fields": {
+    "type_name": "Газета"
+  }
+},
+{
+  "model": "editions.editiontype",
+  "pk": 3,
+  "fields": {
+    "type_name": "Книга"
+  }
+},
+{
+  "model": "editions.editiontype",
+  "pk": 4,
+  "fields": {
+    "type_name": "Альмонах"
+  }
+},
+{
+  "model": "editions.editiontype",
+  "pk": 5,
+  "fields": {
+    "type_name": "Сборник"
+  }
+},
+{
+  "model": "editions.editiontype",
+  "pk": 6,
+  "fields": {
+    "type_name": "Ежегодник"
+  }
+},
+{
+  "model": "editions.editiontype",
+  "pk": 7,
+  "fields": {
+    "type_name": "Справочник"
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 1,
+  "fields": {
+    "image": "1.jpg",
+    "index": "55290",
+    "title": "Автомобилестроение",
+    "price": 5982.0,
+    "edition_type": 1,
+    "description": "Информационный бюллетень. Издание Всероссийского института научной и технической информации Российской академии наук (ВИНИТИ РАН)."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 2,
+  "fields": {
+    "image": "2.jpg",
+    "index": "27839",
+    "title": "Автомобильная промышленность",
+    "price": 4360.0,
+    "edition_type": 2,
+    "description": "Освещает отечественный и зарубежный опыт в области экономики и организации производства; конструирования, испытаний и обслуживания автомототехники; технологий, оборудования и материалов."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 3,
+  "fields": {
+    "image": "3.jpg",
+    "index": "29489",
+    "title": "Автомобильный транспорт",
+    "price": 2713.0,
+    "edition_type": 2,
+    "description": "Журнал издается с 1923 г. для профессионалов автотранспорта. Информирует об опыте организации грузовых и пассажирских перевозок, новостях автомобильной техники, ТО и ремонте, БДД, экономике, законодательстве автотранспорта и др."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 4,
+  "fields": {
+    "image": "4.jpg",
+    "index": "55291",
+    "title": "Автомобильный транспорт",
+    "price": 420.0,
+    "edition_type": 4,
+    "description": "Информационный бюллетень. Издание Всероссийского института научной и технической информации Российской академии наук (ВИНИТИ РАН)."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 5,
+  "fields": {
+    "image": "5.jpg",
+    "index": "36744",
+    "title": "Автомобильный транспорт: грузовые перевозки",
+    "price": 7820.0,
+    "edition_type": 5,
+    "description": "Издается с 2008г. Руководителям АТП, ПАТП, начальникам транспортных подразделений промышленных предприятий, топ-менеджерам структурных подразделений; руководителям и специалистам отделов логистики, служб закупок и снабжения, коммерческим директорам, а также всем заинтересованным специалистам. Регулирование: законодательные акты и инициативы, таможенное регулирование, межправительственные соглашения, региональные программы, контроль автоперевозок. Проекты. Комплексные решения: проекты и решения транспортных компаний, дорожная и придорожная инфраструктура."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 6,
+  "fields": {
+    "image": "6.jpg",
+    "index": "13647",
+    "title": "Автопанорама",
+    "price": 659.0,
+    "edition_type": 4,
+    "description": "Эксклюзивные тесты суперкаров. Статьи о выдающихся машинах, раритетных выставочных концептах, экспедициях во все части света. История автомобилей, материалы о ремонте и сервисном обслуживании, обзоры предложений тюнинговых компаний, цены в автосалонах."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 7,
+  "fields": {
+    "image": "7.jpg",
+    "index": "10444",
+    "title": "Автопарк - 5 колесо",
+    "price": 525.0,
+    "edition_type": 7,
+    "description": "Для профессионалов в области коммерческого транспорта. Новинки, грузовая, строительная и специализированная техника. Материалы по подвижному составу, экономика отрасли, технологии. Тесты."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 8,
+  "fields": {
+    "image": "8.jpg",
+    "index": "16618",
+    "title": "АВТОТРАНСПОРТ: ЭКСПЛУАТАЦИЯ - ОБСЛУЖИВАНИЕ - РЕМОНТ",
+    "price": 892.0,
+    "edition_type": 6,
+    "description": "Единственный в России научно-практический журнал для руководителей автотранспортных и авторемонтных предприятий, технического персонала транспортных цехов, специалистов-диагностов, водителей всех категорий автотранспортных средств по комплексу вопросов эксплуатации, обслуживания и ремонта транспортных средств для коммерческого использования."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 9,
+  "fields": {
+    "image": "9.jpg",
+    "index": "14471",
+    "title": "Academia. Архитектура и строительство",
+    "price": 997.0,
+    "edition_type": 1,
+    "description": "Научные статьи по архитектуре, градостроительству и строительству, написанные членами Академии архитектуры и строительных наук, ее советниками, сотрудниками академических институтов, ведущими специалистами в этих областях."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 10,
+  "fields": {
+    "image": "10.jpg",
+    "index": "45010",
+    "title": "Construction and Geotechnics (старое название Вестник ПНИПУ. Строительство и архитектура)",
+    "price": 2669.0,
+    "edition_type": 2,
+    "description": "Журнал предназначен для научных сотрудников, специализирующихся в области архитектуры и строительных наук, студентов старших курсов, обучающихся по направлению \"Строительство\"."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 11,
+  "fields": {
+    "image": "11.jpg",
+    "index": "73193",
+    "title": "АКАДЕМИЧЕСКИЙ ВЕСТНИК УРАЛНИИПРОЕКТ РААСН",
+    "price": 259.0,
+    "edition_type": 2,
+    "description": "Журнал освещает широкий круг вопросов по архитектуре, градостроительству, строительным наукам, технической эстетике, а также проблемы социально-гуманитарного развития общества. Журнал предназначен для ученых, архитекторов и градостроителей, а также для студентов, магистрантов, аспирантов, докторантов."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 12,
+  "fields": {
+    "image": "12.jpg",
+    "index": "41056",
+    "title": "АКВА-ТЕРМ",
+    "price": 1321.0,
+    "edition_type": 3,
+    "description": "Журнал для специалистов по отоплению, водоснабжению и водоподготовке."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 13,
+  "fields": {
+    "image": "13.jpg",
+    "index": "29254",
+    "title": "Архитектура и строительство России",
+    "price": 1346.0,
+    "edition_type": 3,
+    "description": "Журнал по архитектуре, градостроительству, садово-парковому дизайну, экологии среды обитания, строительным материалам и технологиям, дизайну интерьеров и мебели. Включен в Перечень ВАК."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 14,
+  "fields": {
+    "image": "14.jpg",
+    "index": "79619",
+    "title": "Архитектура, строительство, транспорт",
+    "price": 988.0,
+    "edition_type": 7,
+    "description": "Научно-информационное издание посвящено рассмотрению широкого круга вопросов теоретического и практического характера, направленных на решение проблем в области архитектуры, строительства и транспорта"
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 15,
+  "fields": {
+    "image": "15.jpg",
+    "index": "85502",
+    "title": "Бетон и железобетон",
+    "price": 188.0,
+    "edition_type": 7,
+    "description": "Научные исследования в области материаловедения, технологии бетонов, конструкций из бетона и железобетона, практика строительства. WWW.RIFSM.RU"
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 16,
+  "fields": {
+    "image": "16.jpg",
+    "index": "42231",
+    "title": "Вентиляция, отопление, кондиционирование воздуха, теплоснабжение и строительная теплофизика (АВОК)",
+    "price": 2266.0,
+    "edition_type": 6,
+    "description": "Журнал о современных системах ОВК, энергоэффективном строительстве в России и за рубежом, новых нормативных документах и стандартах."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 17,
+  "fields": {
+    "image": "17.jpg",
+    "index": "41629",
+    "title": "Information Security/ Информационная безопасность",
+    "price": 373.0,
+    "edition_type": 6,
+    "description": "Системы защиты информации в компьютерных системах, объектовое обеспечение информационной безопасности, специальные технологии и средства информационной защиты и анализа информации www.icenter.ru"
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 18,
+  "fields": {
+    "image": "18.jpg",
+    "index": "00103",
+    "title": "SECURITY SAFETY MARKET IN RUSSIA(на русском языку)",
+    "price": 782.0,
+    "edition_type": 6,
+    "description": "Маркетологам и руководителям, отвечающим за развитие бизнеса; специалистам по безопасности; дистрибьюторам оборудования и систем безопасности; сотрудникам российских правительств зарубежных компаний. Бюллетень создан для того, чтобы упорядочивать и отслеживать тенденции рынка безопасности в России, является также базой для изучения примеров интеграции зарубежного бизнеса на российский рынок и отслеживания рынка в целом. Российское регулирование. Слияния и поглощения. Дистрибьюторские соглашения и технологическое партнерство."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 19,
+  "fields": {
+    "image": "19.jpg",
+    "index": "11440",
+    "title": "STOP-газета",
+    "price": 886.0,
+    "edition_type": 6,
+    "description": "Основная задача газеты - воспитание законопослушного участника дорожного движения. Регулярно публикует аналитические материалы по ситуации с безопасностью дорожного движения на дорогах России и мира"
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 20,
+  "fields": {
+    "image": "20.jpg",
+    "index": "85480",
+    "title": "Адвокатская практика",
+    "price": 891.0,
+    "edition_type": 6,
+    "description": "Практический журнал для адвоката. В журнале даются советы по составлению процессуальных документов, освещается деятельность Федеральной палаты адвокатов, адвокатских палат субъектов РФ."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 21,
+  "fields": {
+    "image": "21.jpg",
+    "index": "11162",
+    "title": "Административное право и процесс",
+    "price": 1098.0,
+    "edition_type": 5,
+    "description": "Журнал предназначен для практического решения актуальных вопросов в области административной юрисдикции, для решения вопросов в области административно-правовой организации управления экономикой."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 22,
+  "fields": {
+    "image": "22.jpg",
+    "index": "85473",
+    "title": "Арбитражный и гражданский процесс",
+    "price": 1106.0,
+    "edition_type": 5,
+    "description": "Комментарии АПК, ГПК, разрешение экономических споров судами. Особенности производства по делам о банкротстве, производство по делам с участием иностранных лиц, обобщение судебной и арбитражной практики, вопросы исполнения судебных решений, исполнительное производство. Правовое положение иностранцев и лиц без гражданства в гражданском процессе. Доказательственное право. Несудебные формы защиты."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 23,
+  "fields": {
+    "image": "23.jpg",
+    "index": "91886",
+    "title": "Безопасность бизнеса",
+    "price": 724.0,
+    "edition_type": 4,
+    "description": "Журнал посвящен правовым проблемам безопасности бизнеса, судебной практике, защите прав предпринимателей, актуальным проблемам правового сопровождения предпринимательской деятельности. Также изданием рассматривается такой вопрос как юридическая защита предпринимателей и прав налогоплательщиков."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 24,
+  "fields": {
+    "image": "24.jpg",
+    "index": "41829",
+    "title": "Безопасность в нефтегазовом комплексе",
+    "price": 7820.0,
+    "edition_type": 4,
+    "description": "Издается с 2005г. Главным инженерам и технологам, начальникам лабораторий НК и ТД, экологам, начальникам служб безопасности и охраны компаний нефтегазового комплекса. Производителям и поставщикам противопожарного, экологического, антикоррозийного, изоляционного, взрывозащитного оборудования для транспортных магистралей и объектов НГК, комплексных систем безопасности и охраны, антитеррористических средств, средств индивидуальной защиты."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 25,
+  "fields": {
+    "image": "25.jpg",
+    "index": "41047",
+    "title": "Ars Administrandi",
+    "price": 719.0,
+    "edition_type": 3,
+    "description": "Журнал «ARS ADMINISTRANDI» («Искусство управления») является научным изданием и адресован специалистам в сфере государственного и муниципального управления: исследователям, управленцам – практикам, преподавателям вузов, а также широкому кругу читателей, интересующихся вопросами развития государственного управления и местного самоуправления в России и за рубежом. В журнале публикуются авторские статьи по фундаментальным и прикладным проблемам в сфере государственного и муниципального управления, экономики и политологии."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 26,
+  "fields": {
+    "image": "26.jpg",
+    "index": "18931",
+    "title": "Business Excellence (Деловое совершенство)",
+    "price": 272.0,
+    "edition_type": 3,
+    "description": "Лучшие российские и зарубежные эталоны ведения бизнеса, успешные технологии построения бизнес-процессов и сокращения издержек. Методики повышения качества, формирования команды и воспитания лидерских навыков сотрудников."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 27,
+  "fields": {
+    "image": "27.jpg",
+    "index": "33341",
+    "title": "Business Excellence (Деловое совершенство)(годовая)",
+    "price": 1626.0,
+    "edition_type": 3,
+    "description": "Лучшие российские и зарубежные эталоны ведения бизнеса, успешные технологии построения бизнес-процессов и сокращения издержек. Методики повышения качества, формирования команды и воспитания лидерских навыков сотрудников."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 28,
+  "fields": {
+    "image": "28.jpg",
+    "index": "79134",
+    "title": "E-Management",
+    "price": 916.0,
+    "edition_type": 3,
+    "description": "Журнал издается с 2018 года. Целевую аудиторию журнала составляют отечественные и зарубежные специалисты-практики, изучающие аспекты электронного менеджмента, применения технологий искусственного интеллекта в управлении, а также преподаватели, научные сотрудники, докторанты, аспиранты и магистранты российских и зарубежных научных, исследовательских и образовательных учреждений и организаций, интересующиеся данными вопросами. Журнал включен в Перечень ВАК по следующим направлениям: 5.2.3 Региональная и отраслевая экономика; 5.2.5. Мировая экономика; 5.2.6. Менеджмент."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 29,
+  "fields": {
+    "image": "29.jpg",
+    "index": "32998",
+    "title": "HR-менеджмент. Практика управления персоналом",
+    "price": 782.0,
+    "edition_type": 7,
+    "description": "Издается с 2010г. Топ-менеджерам государственных и коммерческих организаций. Руководителям и специалистам кадровых служб, отделов обучения и развития персонала. Директорам и менеджерам служб управления персоналом. Сотрудникам кадровых агентств и консалтинговых компаний. Внутренним аудиторам, тренерам и психологам компаний. Государственное регулирование. Партнерство. Соглашения. Комплексные решения: опыт компаний; сертификация. Лицензирование. Стандарты. Практические аспекты: технологии управления персоналом, информационное обеспечение, практика решения трудовых вопросов, организация работы HR-службы. Индикаторы развития: тенденции, аналитика, обзоры, экспертные мнения. Проблемы. Конфликты. Инциденты. ТОП Мероприятия. Информационный бюллетень. www.icenter.ru"
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 30,
+  "fields": {
+    "image": "30.jpg",
+    "index": "41639",
+    "title": "Information Security/ Информационная безопасность",
+    "price": 373.0,
+    "edition_type": 1,
+    "description": "Системы защиты информации в компьютерных системах, объектовое обеспечение информационной безопасности, специальные технологии и средства информационной защиты и анализа информации www.icenter.ru"
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 31,
+  "fields": {
+    "image": "31.jpg",
+    "index": "00254",
+    "title": "IT EXPERT / ИТ ИНФРАСТРУКТУРА БИЗНЕСА",
+    "price": 1701.0,
+    "edition_type": 1,
+    "description": "Справочник по выбору устройств и программного обеспечения для различных задач как в бизнесе, так и повседневной жизни. Руководство пользователя по самостоятельной настройке и применению современных технологий в офисе и дома. Обзоры и тесты оборудования и ПО, ответы на вопросы."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 32,
+  "fields": {
+    "image": "32.jpg",
+    "index": "00256",
+    "title": "IT MANAGER / АДМИНИСТРАТОР ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ",
+    "price": 2036.0,
+    "edition_type": 2,
+    "description": "Бизнес-издание в сфере управления и решения технических задач с использованием информационных технологий. Развитие и трансформация бизнеса и государственного сектора в эпоху развития цифровой экономики."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 33,
+  "fields": {
+    "image": "33.jpg",
+    "index": "11869",
+    "title": "Автономные учреждения: акты и комментарии для бухгалтера",
+    "price": 1666.0,
+    "edition_type": 2,
+    "description": "В журнале «Автономные учреждения: акты и комментарии для бухгалтера» публикуются тексты новых документов, затрагивающих финансово-хозяйственную деятельность этих учреждений, и даются комментарии к ним. Разъяснения по спорным вопросам применения налогового законодательства и законодательства РФ, регламентирующего правила ведения бухгалтерского учета, содержатся в письмах Минфина и ФНС, наиболее интересные из которых (а также комментарии к ним) приводятся на страницах журнала."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 34,
+  "fields": {
+    "image": "34.jpg",
+    "index": "00049",
+    "title": "Автономные учреждения: акты и комментарии для бухгалтера(годовая)",
+    "price": 1361.0,
+    "edition_type": 1,
+    "description": "В журнале «Автономные учреждения: акты и комментарии для бухгалтера» публикуются тексты новых документов, затрагивающих финансово-хозяйственную деятельность этих учреждений, и даются комментарии к ним. Разъяснения по спорным вопросам применения налогового законодательства и законодательства РФ, регламентирующего правила ведения бухгалтерского учета, содержатся в письмах Минфина и ФНС, наиболее интересные из которых (а также комментарии к ним) приводятся на страницах журнала."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 35,
+  "fields": {
+    "image": "35.jpg",
+    "index": "15068",
+    "title": "Автономные учреждения: бухгалтерский учет и налогообложение",
+    "price": 3625.0,
+    "edition_type": 1,
+    "description": "В издании всегда освещаются актуальные темы, касающиеся организации и ведения бухгалтерского и налогового учета, составления бухгалтерской и иной отчетности автономных учреждений, последние изменения в законодательстве, приводятся разъяснения специалистов органов государственной власти, ответы на вопросы читателей, обзоры новостей и другая полезная информация. Весь материал излагается в доступной форме, с практическими примерами и корреспонденцией счетов."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 36,
+  "fields": {
+    "image": "36.jpg",
+    "index": "00048",
+    "title": "Автономные учреждения: бухгалтерский учет и налогообложение(годовая)",
+    "price": 285.0,
+    "edition_type": 2,
+    "description": "В издании всегда освещаются актуальные темы, касающиеся организации и ведения бухгалтерского и налогового учета, составления бухгалтерской и иной отчетности автономных учреждений, последние изменения в законодательстве, приводятся разъяснения специалистов органов государственной власти, ответы на вопросы читателей, обзоры новостей и другая полезная информация. Весь материал излагается в доступной форме, с практическими примерами и корреспонденцией счетов."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 37,
+  "fields": {
+    "image": "37.jpg",
+    "index": "47480",
+    "title": "АУДИТ",
+    "price": 108.0,
+    "edition_type": 4,
+    "description": "Новое в аудите, бухучете, налогах, законодательстве, интервью, консультации, советы, анализ, статистика, события аудита, управление, кадры, финансы."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 38,
+  "fields": {
+    "image": "38.jpg",
+    "index": "38910",
+    "title": "Аудит и финансовый анализ / Audit and Financial Analysis",
+    "price": 1219.0,
+    "edition_type": 5,
+    "description": "Журнал входит в перечень СМИ, рекомендуемых ВАК для публикации научных результатов кандидатских и докторских диссертаций: по экономике, управлению, вычислительной технике и информатике."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 39,
+  "fields": {
+    "image": "39.png",
+    "index": "43050",
+    "title": "Аудитор",
+    "price": 433.0,
+    "edition_type": 5,
+    "description": "Научно-практический журнал для аудиторов, бухгалтеров, руководителей, преподавателей и научных сотрудников. Рубрики: теория и практика аудита, внутренний аудит, учет и отчетность, диагностика и прогнозирование, международные стандарты. Входит в Перечень ВАК."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 40,
+  "fields": {
+    "image": "40.jpg",
+    "index": "80698",
+    "title": "Аудиторские ведомости",
+    "price": 2382.0,
+    "edition_type": 5,
+    "description": "На страницах журнала обсуждаются вопросы дальнейшего развития рынка аудиторских услуг, формирования стратегии работы аудиторских компаний, организации и осуществления контроля качества аудита, внедрения МСА, практики применения МСФО, включая алгоритмы действий по решению трудных и спорных вопросов аудиторской практики и многое другое."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 41,
+  "fields": {
+    "image": "41.jpg",
+    "index": "18346",
+    "title": "Берг-Коллегия",
+    "price": 525.0,
+    "edition_type": 5,
+    "description": "Промышленная безопасность. Энергетика. Экология."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 42,
+  "fields": {
+    "image": "42.jpg",
+    "index": "29003",
+    "title": "Бурение и нефть",
+    "price": 621.0,
+    "edition_type": 5,
+    "description": "Материалы о новейших научно-технических и технологических разработках, применяемых в нефтегазовой отрасли, а также статьи по проблемам экономики, экологии, права; экспертиза, статистика, зарубежный опыт."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 43,
+  "fields": {
+    "image": "43.jpg",
+    "index": "45162",
+    "title": "Вестник Владикавказского научного центра",
+    "price": 2553.0,
+    "edition_type": 6,
+    "description": "В журнале публикуются научные статьи по вопросам истории, общества, языкознания, литературоведения, экологии, экономики, региональной политики, наук о Земле."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 44,
+  "fields": {
+    "image": "44.jpg",
+    "index": "82102",
+    "title": "Вестник ЗабГУ(годовая)",
+    "price": 703.0,
+    "edition_type": 7,
+    "description": "Журнал представляет собой сборник оригинальных и обзорных научных статей по политологии, экономическим наукам, науках о земле. Издание входит в Перечень ВАК."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 45,
+  "fields": {
+    "image": "45.jpg",
+    "index": "13015",
+    "title": "3/9 царство",
+    "price": 369.0,
+    "edition_type": 7,
+    "description": "В красочных комиксах и веселых сказках читателей ждут необычные встречи с героями русского фольклора. Интересные и сложные головоломки, конкурсы, ценные призы для подписчиков."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 46,
+  "fields": {
+    "image": "46.jpg",
+    "index": "39192",
+    "title": "ENGLISH. Книги для чтения на английском языке для школьников",
+    "price": 1198.0,
+    "edition_type": 7,
+    "description": "Увлекательные книги на английском языке с упражнениями и словарём, адаптированные для учащихся школы. В первом полугодии 2023г. выходят: \"Жар-птица и другие чудесные сказки\", \"Кот в сапогах\"; \"Тайна волшебного замка\"; \"Легенды о Робин Гуде\"; \"Мэри Поппинс\"; \"Экскалибур. Меч короля Артура\". В подписке повторно."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 47,
+  "fields": {
+    "image": "47.jpg",
+    "index": "39189",
+    "title": "ENGLISH. Читаем вместе детские сказки",
+    "price": 871.0,
+    "edition_type": 6,
+    "description": "Красочно иллюстрированные ДЕТСКИЕ СКАЗКИ НА АНГЛИЙСКОМ ЯЗЫКЕ с занимательными упражнениями и словарём, адаптированы для детей дошкольного и младшего школьного возраста. В первом полугодии 2023 г. выходят: \"Колобок\"; \"Как обезьяна медузу перехитрила\"; \"Лисичка-сестричка и братец волк\"; \"Мужик и заяц\"; \"Сказка о рыбаке\"; \"Ученик чародея\". В подписке повторно."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 48,
+  "fields": {
+    "image": "48.jpg",
+    "index": "43134",
+    "title": "А почему? Приложение к журналу \"Юный техник\"",
+    "price": 1444.0,
+    "edition_type": 6,
+    "description": "Для детей о науке, природе, путешествиях в ответах на вопросы. Сказки, комиксы, игротека помогут приятно и творчески провести досуг."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 49,
+  "fields": {
+    "image": "49.jpg",
+    "index": "81202",
+    "title": "1001 совет и секрет",
+    "price": 557.0,
+    "edition_type": 1,
+    "description": "Более 20 рубрик бесценных советов на каждый день!"
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 50,
+  "fields": {
+    "image": "50.jpg",
+    "index": "29120",
+    "title": "OTTOBRE (ОТТОБРЕ)",
+    "price": 1589.0,
+    "edition_type": 1,
+    "description": "Качественное издание для любителей шитья детям. Каждый номер включает выкройки и инструкции к 40 актуальным моделям для детей и подростков ростом от 56 до 170 см. Высокое качество бумаги и печати делают его настольной книгой рукодельницы."
+  }
+},
+{
+  "model": "editions.edition",
+  "pk": 51,
+  "fields": {
+    "image": "51.jpg",
+    "index": "43700",
+    "title": "Ах, тёща моя!",
+    "price": 651.0,
+    "edition_type": 1,
+    "description": "Газета для всей семьи, содержащая полезные советы и рецепты, хорошо сдобренная юмором и разбавленная красочными рисунками. Журнальный вариант."
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 1,
+  "fields": {
+    "subscriber": 3,
+    "edition": 3,
+    "date_of_subscription": "2022-09-10",
+    "duration": 1,
+    "is_subscription": true
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 2,
+  "fields": {
+    "subscriber": 4,
+    "edition": 4,
+    "date_of_subscription": "2022-09-05",
+    "duration": 1,
+    "is_subscription": true
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 3,
+  "fields": {
+    "subscriber": 5,
+    "edition": 5,
+    "date_of_subscription": "2022-09-05",
+    "duration": 1,
+    "is_subscription": true
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 4,
+  "fields": {
+    "subscriber": 6,
+    "edition": 6,
+    "date_of_subscription": "2022-09-05",
+    "duration": 1,
+    "is_subscription": true
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 5,
+  "fields": {
+    "subscriber": 6,
+    "edition": 1,
+    "date_of_subscription": "2017-09-05",
+    "duration": 1,
+    "is_subscription": true
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 6,
+  "fields": {
+    "subscriber": 6,
+    "edition": 2,
+    "date_of_subscription": "2017-09-05",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 7,
+  "fields": {
+    "subscriber": 6,
+    "edition": 3,
+    "date_of_subscription": "2017-09-05",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 8,
+  "fields": {
+    "subscriber": 6,
+    "edition": 4,
+    "date_of_subscription": "2017-09-05",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 9,
+  "fields": {
+    "subscriber": 6,
+    "edition": 5,
+    "date_of_subscription": "2017-09-05",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 10,
+  "fields": {
+    "subscriber": 6,
+    "edition": 9,
+    "date_of_subscription": "2017-09-05",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 11,
+  "fields": {
+    "subscriber": 6,
+    "edition": 10,
+    "date_of_subscription": "2017-09-05",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 12,
+  "fields": {
+    "subscriber": 6,
+    "edition": 11,
+    "date_of_subscription": "2017-09-05",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 13,
+  "fields": {
+    "subscriber": 6,
+    "edition": 12,
+    "date_of_subscription": "2017-09-05",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 14,
+  "fields": {
+    "subscriber": 6,
+    "edition": 13,
+    "date_of_subscription": "2017-09-05",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 15,
+  "fields": {
+    "subscriber": 6,
+    "edition": 14,
+    "date_of_subscription": "2017-09-05",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 16,
+  "fields": {
+    "subscriber": 6,
+    "edition": 15,
+    "date_of_subscription": "2017-09-05",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 17,
+  "fields": {
+    "subscriber": 7,
+    "edition": 7,
+    "date_of_subscription": "2022-09-10",
+    "duration": 1,
+    "is_subscription": true
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 18,
+  "fields": {
+    "subscriber": 7,
+    "edition": 8,
+    "date_of_subscription": "2018-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 19,
+  "fields": {
+    "subscriber": 7,
+    "edition": 9,
+    "date_of_subscription": "2018-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 20,
+  "fields": {
+    "subscriber": 7,
+    "edition": 10,
+    "date_of_subscription": "2018-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 21,
+  "fields": {
+    "subscriber": 7,
+    "edition": 11,
+    "date_of_subscription": "2018-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 22,
+  "fields": {
+    "subscriber": 7,
+    "edition": 12,
+    "date_of_subscription": "2018-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 23,
+  "fields": {
+    "subscriber": 7,
+    "edition": 13,
+    "date_of_subscription": "2018-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 24,
+  "fields": {
+    "subscriber": 7,
+    "edition": 14,
+    "date_of_subscription": "2018-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 25,
+  "fields": {
+    "subscriber": 7,
+    "edition": 15,
+    "date_of_subscription": "2018-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 26,
+  "fields": {
+    "subscriber": 8,
+    "edition": 8,
+    "date_of_subscription": "2022-09-10",
+    "duration": 1,
+    "is_subscription": true
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 27,
+  "fields": {
+    "subscriber": 8,
+    "edition": 9,
+    "date_of_subscription": "2019-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 28,
+  "fields": {
+    "subscriber": 8,
+    "edition": 10,
+    "date_of_subscription": "2019-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 29,
+  "fields": {
+    "subscriber": 8,
+    "edition": 11,
+    "date_of_subscription": "2019-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 30,
+  "fields": {
+    "subscriber": 8,
+    "edition": 12,
+    "date_of_subscription": "2019-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 31,
+  "fields": {
+    "subscriber": 8,
+    "edition": 13,
+    "date_of_subscription": "2019-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 32,
+  "fields": {
+    "subscriber": 8,
+    "edition": 14,
+    "date_of_subscription": "2019-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 33,
+  "fields": {
+    "subscriber": 8,
+    "edition": 15,
+    "date_of_subscription": "2019-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 34,
+  "fields": {
+    "subscriber": 8,
+    "edition": 16,
+    "date_of_subscription": "2019-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 35,
+  "fields": {
+    "subscriber": 8,
+    "edition": 17,
+    "date_of_subscription": "2019-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 36,
+  "fields": {
+    "subscriber": 8,
+    "edition": 18,
+    "date_of_subscription": "2019-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 37,
+  "fields": {
+    "subscriber": 8,
+    "edition": 20,
+    "date_of_subscription": "2019-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 38,
+  "fields": {
+    "subscriber": 8,
+    "edition": 21,
+    "date_of_subscription": "2019-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 39,
+  "fields": {
+    "subscriber": 8,
+    "edition": 22,
+    "date_of_subscription": "2019-09-10",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 40,
+  "fields": {
+    "subscriber": 9,
+    "edition": 9,
+    "date_of_subscription": "2022-09-01",
+    "duration": 1,
+    "is_subscription": true
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 41,
+  "fields": {
+    "subscriber": 9,
+    "edition": 10,
+    "date_of_subscription": "2020-09-01",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 42,
+  "fields": {
+    "subscriber": 9,
+    "edition": 11,
+    "date_of_subscription": "2020-09-01",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 43,
+  "fields": {
+    "subscriber": 9,
+    "edition": 12,
+    "date_of_subscription": "2020-09-01",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 44,
+  "fields": {
+    "subscriber": 9,
+    "edition": 13,
+    "date_of_subscription": "2020-09-01",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 45,
+  "fields": {
+    "subscriber": 9,
+    "edition": 14,
+    "date_of_subscription": "2020-09-01",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 46,
+  "fields": {
+    "subscriber": 9,
+    "edition": 15,
+    "date_of_subscription": "2020-09-01",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 47,
+  "fields": {
+    "subscriber": 9,
+    "edition": 16,
+    "date_of_subscription": "2020-09-01",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 48,
+  "fields": {
+    "subscriber": 9,
+    "edition": 17,
+    "date_of_subscription": "2020-09-01",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 49,
+  "fields": {
+    "subscriber": 9,
+    "edition": 18,
+    "date_of_subscription": "2020-09-01",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 50,
+  "fields": {
+    "subscriber": 9,
+    "edition": 19,
+    "date_of_subscription": "2020-09-01",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 51,
+  "fields": {
+    "subscriber": 9,
+    "edition": 20,
+    "date_of_subscription": "2020-09-01",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 52,
+  "fields": {
+    "subscriber": 9,
+    "edition": 21,
+    "date_of_subscription": "2020-09-01",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 53,
+  "fields": {
+    "subscriber": 10,
+    "edition": 10,
+    "date_of_subscription": "2022-09-22",
+    "duration": 1,
+    "is_subscription": true
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 54,
+  "fields": {
+    "subscriber": 10,
+    "edition": 11,
+    "date_of_subscription": "2021-03-11",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 55,
+  "fields": {
+    "subscriber": 10,
+    "edition": 12,
+    "date_of_subscription": "2021-03-11",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 56,
+  "fields": {
+    "subscriber": 10,
+    "edition": 13,
+    "date_of_subscription": "2021-03-11",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 57,
+  "fields": {
+    "subscriber": 10,
+    "edition": 14,
+    "date_of_subscription": "2021-03-11",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 58,
+  "fields": {
+    "subscriber": 10,
+    "edition": 15,
+    "date_of_subscription": "2021-03-11",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 59,
+  "fields": {
+    "subscriber": 10,
+    "edition": 16,
+    "date_of_subscription": "2021-03-11",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 60,
+  "fields": {
+    "subscriber": 10,
+    "edition": 17,
+    "date_of_subscription": "2021-03-11",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 61,
+  "fields": {
+    "subscriber": 10,
+    "edition": 18,
+    "date_of_subscription": "2021-03-11",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 62,
+  "fields": {
+    "subscriber": 10,
+    "edition": 19,
+    "date_of_subscription": "2021-03-11",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 63,
+  "fields": {
+    "subscriber": 10,
+    "edition": 20,
+    "date_of_subscription": "2021-03-11",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 64,
+  "fields": {
+    "subscriber": 10,
+    "edition": 21,
+    "date_of_subscription": "2021-03-11",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 65,
+  "fields": {
+    "subscriber": 10,
+    "edition": 22,
+    "date_of_subscription": "2021-03-11",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 66,
+  "fields": {
+    "subscriber": 10,
+    "edition": 23,
+    "date_of_subscription": "2021-03-11",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 67,
+  "fields": {
+    "subscriber": 10,
+    "edition": 24,
+    "date_of_subscription": "2021-03-11",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 68,
+  "fields": {
+    "subscriber": 10,
+    "edition": 25,
+    "date_of_subscription": "2021-03-11",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 69,
+  "fields": {
+    "subscriber": 11,
+    "edition": 11,
+    "date_of_subscription": "2022-09-22",
+    "duration": 1,
+    "is_subscription": true
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 70,
+  "fields": {
+    "subscriber": 12,
+    "edition": 12,
+    "date_of_subscription": "2022-09-22",
+    "duration": 1,
+    "is_subscription": true
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 71,
+  "fields": {
+    "subscriber": 13,
+    "edition": 13,
+    "date_of_subscription": "2022-09-22",
+    "duration": 1,
+    "is_subscription": true
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 72,
+  "fields": {
+    "subscriber": 14,
+    "edition": 14,
+    "date_of_subscription": "2022-09-11",
+    "duration": 1,
+    "is_subscription": true
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 73,
+  "fields": {
+    "subscriber": 15,
+    "edition": 15,
+    "date_of_subscription": "2022-09-11",
+    "duration": 1,
+    "is_subscription": true
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 74,
+  "fields": {
+    "subscriber": 16,
+    "edition": 16,
+    "date_of_subscription": "2022-09-11",
+    "duration": 1,
+    "is_subscription": true
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 75,
+  "fields": {
+    "subscriber": 3,
+    "edition": 1,
+    "date_of_subscription": "2019-09-10",
+    "duration": 1,
+    "is_subscription": true
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 76,
+  "fields": {
+    "subscriber": 23,
+    "edition": 34,
+    "date_of_subscription": "2020-04-15",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 77,
+  "fields": {
+    "subscriber": 24,
+    "edition": 25,
+    "date_of_subscription": "2022-03-21",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 78,
+  "fields": {
+    "subscriber": 41,
+    "edition": 23,
+    "date_of_subscription": "2022-11-24",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "editions.subscription",
+  "pk": 79,
+  "fields": {
+    "subscriber": 34,
+    "edition": 12,
+    "date_of_subscription": "2022-12-11",
+    "duration": 1,
+    "is_subscription": false
+  }
+},
+{
+  "model": "postman.postman",
+  "pk": 1,
+  "fields": {
+    "user": 23,
+    "employment_date": "2012-01-12",
+    "topicality": true
+  }
+},
+{
+  "model": "postman.postman",
+  "pk": 2,
+  "fields": {
+    "user": 14,
+    "employment_date": "2012-08-24",
+    "topicality": true
+  }
+},
+{
+  "model": "postman.postman",
+  "pk": 3,
+  "fields": {
+    "user": 15,
+    "employment_date": "2017-03-01",
+    "topicality": true
+  }
+},
+{
+  "model": "postman.postman",
+  "pk": 4,
+  "fields": {
+    "user": 45,
+    "employment_date": "2022-09-17",
+    "topicality": true
+  }
+},
+{
+  "model": "postman.postman",
+  "pk": 5,
+  "fields": {
+    "user": 33,
+    "employment_date": "2011-11-25",
+    "topicality": true
+  }
+},
+{
+  "model": "postman.postman",
+  "pk": 6,
+  "fields": {
+    "user": 31,
+    "employment_date": "2018-08-11",
+    "topicality": true
+  }
+},
+{
+  "model": "postman.postman",
+  "pk": 7,
+  "fields": {
+    "user": 28,
+    "employment_date": "2020-09-15",
+    "topicality": true
+  }
+},
+{
+  "model": "postman.postman",
+  "pk": 8,
+  "fields": {
+    "user": 17,
+    "employment_date": "2017-03-01",
+    "topicality": true
+  }
+},
+{
+  "model": "postman.postman",
+  "pk": 9,
+  "fields": {
+    "user": 18,
+    "employment_date": "2019-06-06",
+    "topicality": true
+  }
+},
+{
+  "model": "postman.postman",
+  "pk": 10,
+  "fields": {
+    "user": 20,
+    "employment_date": "2020-11-01",
+    "topicality": true
+  }
+},
+{
+  "model": "address.street",
+  "pk": 1,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Кремлевская наб"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 2,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Ушинского"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 3,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Дружбы"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 4,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Корабельная"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 5,
+  "fields": {
+    "type_street": "Бульвар",
+    "street": "Машиностроения 1-я,"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 6,
+  "fields": {
+    "type_street": "Проспект",
+    "street": "Загородный 5-й проезд"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 7,
+  "fields": {
+    "type_street": "Бульвар",
+    "street": "Детский пер"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 8,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Шоссейная 3-я"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 9,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Военная Горка (3-я линия)"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 10,
+  "fields": {
+    "type_street": "Проспект",
+    "street": "Ананьевский пер"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 11,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Графитный проезд"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 12,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Ольховая"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 13,
+  "fields": {
+    "type_street": "Проспект",
+    "street": "Албазинская"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 14,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Албазинская"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 15,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Корабельная"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 16,
+  "fields": {
+    "type_street": "Проспект",
+    "street": "Рословка"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 17,
+  "fields": {
+    "type_street": "Проспект",
+    "street": "Палашевский М. пер"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 18,
+  "fields": {
+    "type_street": "Проспект",
+    "street": "Внешняя"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 19,
+  "fields": {
+    "type_street": "Бульвар",
+    "street": "Пенягинская"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 20,
+  "fields": {
+    "type_street": "Бульвар",
+    "street": "Корабельная"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 21,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Ткачей"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 22,
+  "fields": {
+    "type_street": "Проспект",
+    "street": "Академика Миллионщикова"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 23,
+  "fields": {
+    "type_street": "Бульвар",
+    "street": "Албазинская"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 24,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Богдана Хмельницкого"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 25,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Мордовский Лог"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 26,
+  "fields": {
+    "type_street": "Бульвар",
+    "street": "Пестеля 1-я"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 27,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Перерва"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 28,
+  "fields": {
+    "type_street": "Проспект",
+    "street": "Корабельная"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 29,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Очаковский 5-й пер"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 30,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Героев Революции"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 31,
+  "fields": {
+    "type_street": "Бульвар",
+    "street": "Сущевский Вал"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 32,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Гэсстроевский 4-й пер"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 33,
+  "fields": {
+    "type_street": "Бульвар",
+    "street": "Корабельная"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 34,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Очаковский 1-й пер"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 35,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Мочищенский Спуск"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 36,
+  "fields": {
+    "type_street": "Проспект",
+    "street": "Международная"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 37,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Жерновская 3-я"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 38,
+  "fields": {
+    "type_street": "Бульвар",
+    "street": "Шоссейная 3-я"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 39,
+  "fields": {
+    "type_street": "Проспект",
+    "street": "Шоссейная 3-я"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 40,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Новоподмосковный 8-й пер"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 41,
+  "fields": {
+    "type_street": "Бульвар",
+    "street": "Жерновская 3-я"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 42,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Прогонная 1-я"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 43,
+  "fields": {
+    "type_street": "Проспект",
+    "street": "Смоленский 1-й пер"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 44,
+  "fields": {
+    "type_street": "Проспект",
+    "street": "Шоссейная 3-я"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 45,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Гончарный 1-й пер"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 46,
+  "fields": {
+    "type_street": "Бульвар",
+    "street": "Сетуньский 1-й проезд"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 47,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Красногвардейский б-р"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 48,
+  "fields": {
+    "type_street": "Проспект",
+    "street": "Новоподмосковный 8-й пер"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 49,
+  "fields": {
+    "type_street": "Бульвар",
+    "street": "Летний сад"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 50,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Токмаков пер"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 51,
+  "fields": {
+    "type_street": "Улица",
+    "street": "Смоленский 1-й пер"
+  }
+},
+{
+  "model": "address.street",
+  "pk": 52,
+  "fields": {
+    "type_street": "Бульвар",
+    "street": "Лукьяновский проезд"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 1,
+  "fields": {
+    "street": 1,
+    "house": "110",
+    "flat": "253"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 2,
+  "fields": {
+    "street": 2,
+    "house": "138",
+    "flat": "605"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 3,
+  "fields": {
+    "street": 3,
+    "house": "66a",
+    "flat": "619"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 4,
+  "fields": {
+    "street": 4,
+    "house": "17",
+    "flat": "63"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 5,
+  "fields": {
+    "street": 5,
+    "house": "117в",
+    "flat": "109"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 6,
+  "fields": {
+    "street": 6,
+    "house": "59",
+    "flat": "853"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 7,
+  "fields": {
+    "street": 7,
+    "house": "194",
+    "flat": "527"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 8,
+  "fields": {
+    "street": 8,
+    "house": "199",
+    "flat": "225"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 9,
+  "fields": {
+    "street": 9,
+    "house": "132",
+    "flat": "362"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 10,
+  "fields": {
+    "street": 10,
+    "house": "2а",
+    "flat": "571"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 11,
+  "fields": {
+    "street": 11,
+    "house": "194",
+    "flat": "370"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 12,
+  "fields": {
+    "street": 12,
+    "house": "68в",
+    "flat": "795"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 13,
+  "fields": {
+    "street": 13,
+    "house": "170",
+    "flat": "865"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 14,
+  "fields": {
+    "street": 14,
+    "house": "145",
+    "flat": "395"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 15,
+  "fields": {
+    "street": 15,
+    "house": "96",
+    "flat": "653"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 16,
+  "fields": {
+    "street": 16,
+    "house": "33",
+    "flat": "58"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 17,
+  "fields": {
+    "street": 17,
+    "house": "162",
+    "flat": "676"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 18,
+  "fields": {
+    "street": 18,
+    "house": "52",
+    "flat": "865"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 19,
+  "fields": {
+    "street": 19,
+    "house": "145а",
+    "flat": "358"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 20,
+  "fields": {
+    "street": 20,
+    "house": "99",
+    "flat": "332"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 21,
+  "fields": {
+    "street": 21,
+    "house": "57",
+    "flat": "978"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 22,
+  "fields": {
+    "street": 22,
+    "house": "69б",
+    "flat": "962"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 23,
+  "fields": {
+    "street": 23,
+    "house": "143",
+    "flat": "852"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 24,
+  "fields": {
+    "street": 24,
+    "house": "193",
+    "flat": "402"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 25,
+  "fields": {
+    "street": 25,
+    "house": "128а",
+    "flat": "502"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 26,
+  "fields": {
+    "street": 26,
+    "house": "147",
+    "flat": "18"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 27,
+  "fields": {
+    "street": 27,
+    "house": "140",
+    "flat": "1"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 28,
+  "fields": {
+    "street": 28,
+    "house": "77",
+    "flat": "432"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 29,
+  "fields": {
+    "street": 29,
+    "house": "245",
+    "flat": "531"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 30,
+  "fields": {
+    "street": 30,
+    "house": "36",
+    "flat": "45"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 31,
+  "fields": {
+    "street": 31,
+    "house": "102",
+    "flat": "815"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 32,
+  "fields": {
+    "street": 32,
+    "house": "120в",
+    "flat": "836"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 33,
+  "fields": {
+    "street": 33,
+    "house": "78",
+    "flat": "238"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 34,
+  "fields": {
+    "street": 34,
+    "house": "75",
+    "flat": "145"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 35,
+  "fields": {
+    "street": 35,
+    "house": "124",
+    "flat": "455"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 36,
+  "fields": {
+    "street": 36,
+    "house": "125",
+    "flat": "13"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 37,
+  "fields": {
+    "street": 37,
+    "house": "189",
+    "flat": "651"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 38,
+  "fields": {
+    "street": 38,
+    "house": "175",
+    "flat": "827"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 39,
+  "fields": {
+    "street": 39,
+    "house": "145",
+    "flat": "675"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 40,
+  "fields": {
+    "street": 40,
+    "house": "123",
+    "flat": "149"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 41,
+  "fields": {
+    "street": 41,
+    "house": "138",
+    "flat": "432"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 42,
+  "fields": {
+    "street": 42,
+    "house": "73",
+    "flat": "952"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 43,
+  "fields": {
+    "street": 43,
+    "house": "111в",
+    "flat": "259"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 44,
+  "fields": {
+    "street": 44,
+    "house": "86а",
+    "flat": "40"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 45,
+  "fields": {
+    "street": 45,
+    "house": "2",
+    "flat": "702"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 46,
+  "fields": {
+    "street": 46,
+    "house": "101",
+    "flat": "662"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 47,
+  "fields": {
+    "street": 47,
+    "house": "19",
+    "flat": "897"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 48,
+  "fields": {
+    "street": 48,
+    "house": "50",
+    "flat": "198"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 49,
+  "fields": {
+    "street": 49,
+    "house": "125",
+    "flat": "455"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 50,
+  "fields": {
+    "street": 50,
+    "house": "11",
+    "flat": "788"
+  }
+},
+{
+  "model": "address.address",
+  "pk": 51,
+  "fields": {
+    "street": 51,
+    "house": "3",
+    "flat": "1"
+  }
+},
+{
+  "model": "address.postofficeinfo",
+  "pk": 1,
+  "fields": {
+    "title": "Post Office",
+    "address": 51,
+    "manager_info": "Заведующий этой компании его почта politsa042@gmail.com, номер телефона +7 (953) 132-15-13"
+  }
+},
+{
+  "model": "address.postofficeinfo",
+  "pk": 2,
+  "fields": {
+    "title": "Post Delivery",
+    "address": 11,
+    "manager_info": "Заведующий этой компании его почта admin@gmail.com, номер телефона +7 (953) 132-15-13"
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 1,
+  "fields": {
+    "subscriber": 3,
+    "edition": 3,
+    "expected": true
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 2,
+  "fields": {
+    "subscriber": 4,
+    "edition": 4,
+    "expected": true
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 3,
+  "fields": {
+    "subscriber": 5,
+    "edition": 5,
+    "expected": true
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 4,
+  "fields": {
+    "subscriber": 6,
+    "edition": 6,
+    "expected": true
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 5,
+  "fields": {
+    "subscriber": 7,
+    "edition": 7,
+    "expected": true
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 6,
+  "fields": {
+    "subscriber": 8,
+    "edition": 8,
+    "expected": true
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 7,
+  "fields": {
+    "subscriber": 9,
+    "edition": 9,
+    "expected": true
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 8,
+  "fields": {
+    "subscriber": 10,
+    "edition": 10,
+    "expected": true
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 9,
+  "fields": {
+    "subscriber": 11,
+    "edition": 11,
+    "expected": true
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 10,
+  "fields": {
+    "subscriber": 12,
+    "edition": 12,
+    "expected": true
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 11,
+  "fields": {
+    "subscriber": 13,
+    "edition": 13,
+    "expected": true
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 12,
+  "fields": {
+    "subscriber": 14,
+    "edition": 14,
+    "expected": true
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 13,
+  "fields": {
+    "subscriber": 15,
+    "edition": 15,
+    "expected": true
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 14,
+  "fields": {
+    "subscriber": 16,
+    "edition": 16,
+    "expected": true
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 15,
+  "fields": {
+    "subscriber": 3,
+    "edition": 1,
+    "expected": false
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 16,
+  "fields": {
+    "subscriber": 23,
+    "edition": 34,
+    "expected": false
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 17,
+  "fields": {
+    "subscriber": 24,
+    "edition": 25,
+    "expected": false
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 18,
+  "fields": {
+    "subscriber": 41,
+    "edition": 23,
+    "expected": false
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 19,
+  "fields": {
+    "subscriber": 34,
+    "edition": 12,
+    "expected": false
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 1,
+  "fields": {
+    "postman": 1,
+    "street": 1
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 2,
+  "fields": {
+    "postman": 1,
+    "street": 2
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 3,
+  "fields": {
+    "postman": 1,
+    "street": 3
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 4,
+  "fields": {
+    "postman": 1,
+    "street": 4
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 5,
+  "fields": {
+    "postman": 1,
+    "street": 5
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 6,
+  "fields": {
+    "postman": 2,
+    "street": 6
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 7,
+  "fields": {
+    "postman": 2,
+    "street": 7
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 8,
+  "fields": {
+    "postman": 2,
+    "street": 8
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 9,
+  "fields": {
+    "postman": 2,
+    "street": 9
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 10,
+  "fields": {
+    "postman": 2,
+    "street": 10
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 11,
+  "fields": {
+    "postman": 3,
+    "street": 11
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 12,
+  "fields": {
+    "postman": 3,
+    "street": 12
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 13,
+  "fields": {
+    "postman": 3,
+    "street": 13
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 14,
+  "fields": {
+    "postman": 3,
+    "street": 14
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 15,
+  "fields": {
+    "postman": 3,
+    "street": 15
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 16,
+  "fields": {
+    "postman": 4,
+    "street": 16
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 17,
+  "fields": {
+    "postman": 4,
+    "street": 17
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 18,
+  "fields": {
+    "postman": 4,
+    "street": 18
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 19,
+  "fields": {
+    "postman": 4,
+    "street": 19
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 20,
+  "fields": {
+    "postman": 4,
+    "street": 20
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 21,
+  "fields": {
+    "postman": 5,
+    "street": 21
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 22,
+  "fields": {
+    "postman": 5,
+    "street": 22
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 23,
+  "fields": {
+    "postman": 5,
+    "street": 23
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 24,
+  "fields": {
+    "postman": 5,
+    "street": 24
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 25,
+  "fields": {
+    "postman": 5,
+    "street": 25
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 26,
+  "fields": {
+    "postman": 6,
+    "street": 26
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 27,
+  "fields": {
+    "postman": 6,
+    "street": 27
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 28,
+  "fields": {
+    "postman": 6,
+    "street": 28
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 29,
+  "fields": {
+    "postman": 6,
+    "street": 29
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 30,
+  "fields": {
+    "postman": 6,
+    "street": 30
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 31,
+  "fields": {
+    "postman": 7,
+    "street": 31
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 32,
+  "fields": {
+    "postman": 7,
+    "street": 32
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 33,
+  "fields": {
+    "postman": 7,
+    "street": 33
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 34,
+  "fields": {
+    "postman": 7,
+    "street": 34
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 35,
+  "fields": {
+    "postman": 7,
+    "street": 35
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 36,
+  "fields": {
+    "postman": 8,
+    "street": 36
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 37,
+  "fields": {
+    "postman": 8,
+    "street": 37
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 38,
+  "fields": {
+    "postman": 8,
+    "street": 38
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 39,
+  "fields": {
+    "postman": 8,
+    "street": 39
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 40,
+  "fields": {
+    "postman": 8,
+    "street": 40
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 41,
+  "fields": {
+    "postman": 9,
+    "street": 41
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 42,
+  "fields": {
+    "postman": 9,
+    "street": 42
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 43,
+  "fields": {
+    "postman": 9,
+    "street": 43
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 44,
+  "fields": {
+    "postman": 9,
+    "street": 44
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 45,
+  "fields": {
+    "postman": 9,
+    "street": 45
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 46,
+  "fields": {
+    "postman": 10,
+    "street": 46
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 47,
+  "fields": {
+    "postman": 10,
+    "street": 47
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 48,
+  "fields": {
+    "postman": 10,
+    "street": 48
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 49,
+  "fields": {
+    "postman": 10,
+    "street": 49
+  }
+},
+{
+  "model": "districts.districtstreet",
+  "pk": 50,
+  "fields": {
+    "postman": 10,
+    "street": 50
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 1,
+  "fields": {
+    "number": 1,
+    "title": "Центр",
+    "district_street": 1
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 2,
+  "fields": {
+    "number": 1,
+    "title": "Центр",
+    "district_street": 2
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 3,
+  "fields": {
+    "number": 1,
+    "title": "Центр",
+    "district_street": 3
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 4,
+  "fields": {
+    "number": 1,
+    "title": "Центр",
+    "district_street": 4
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 5,
+  "fields": {
+    "number": 1,
+    "title": "Центр",
+    "district_street": 5
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 6,
+  "fields": {
+    "number": 2,
+    "title": "Край",
+    "district_street": 6
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 7,
+  "fields": {
+    "number": 2,
+    "title": "Край",
+    "district_street": 7
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 8,
+  "fields": {
+    "number": 2,
+    "title": "Край",
+    "district_street": 8
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 9,
+  "fields": {
+    "number": 2,
+    "title": "Край",
+    "district_street": 9
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 10,
+  "fields": {
+    "number": 2,
+    "title": "Край",
+    "district_street": 10
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 11,
+  "fields": {
+    "number": 3,
+    "title": "Днепровский",
+    "district_street": 11
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 12,
+  "fields": {
+    "number": 3,
+    "title": "Днепровский",
+    "district_street": 12
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 13,
+  "fields": {
+    "number": 3,
+    "title": "Днепровский",
+    "district_street": 13
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 14,
+  "fields": {
+    "number": 3,
+    "title": "Днепровский",
+    "district_street": 14
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 15,
+  "fields": {
+    "number": 3,
+    "title": "Днепровский",
+    "district_street": 15
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 16,
+  "fields": {
+    "number": 4,
+    "title": "Октябрьский",
+    "district_street": 16
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 17,
+  "fields": {
+    "number": 4,
+    "title": "Октябрьский",
+    "district_street": 17
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 18,
+  "fields": {
+    "number": 4,
+    "title": "Октябрьский",
+    "district_street": 18
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 19,
+  "fields": {
+    "number": 4,
+    "title": "Октябрьский",
+    "district_street": 19
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 20,
+  "fields": {
+    "number": 4,
+    "title": "Октябрьский",
+    "district_street": 20
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 21,
+  "fields": {
+    "number": 5,
+    "title": "Железнодорожный",
+    "district_street": 21
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 22,
+  "fields": {
+    "number": 5,
+    "title": "Железнодорожный",
+    "district_street": 22
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 23,
+  "fields": {
+    "number": 5,
+    "title": "Железнодорожный",
+    "district_street": 23
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 24,
+  "fields": {
+    "number": 5,
+    "title": "Железнодорожный",
+    "district_street": 24
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 25,
+  "fields": {
+    "number": 5,
+    "title": "Железнодорожный",
+    "district_street": 25
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 26,
+  "fields": {
+    "number": 6,
+    "title": "Ленинградский",
+    "district_street": 26
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 27,
+  "fields": {
+    "number": 6,
+    "title": "Ленинградский",
+    "district_street": 27
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 28,
+  "fields": {
+    "number": 6,
+    "title": "Ленинградский",
+    "district_street": 28
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 29,
+  "fields": {
+    "number": 6,
+    "title": "Ленинградский",
+    "district_street": 29
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 30,
+  "fields": {
+    "number": 6,
+    "title": "Ленинградский",
+    "district_street": 30
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 31,
+  "fields": {
+    "number": 7,
+    "title": "Минский",
+    "district_street": 31
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 32,
+  "fields": {
+    "number": 7,
+    "title": "Минский",
+    "district_street": 32
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 33,
+  "fields": {
+    "number": 7,
+    "title": "Минский",
+    "district_street": 33
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 34,
+  "fields": {
+    "number": 7,
+    "title": "Минский",
+    "district_street": 34
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 35,
+  "fields": {
+    "number": 7,
+    "title": "Минский",
+    "district_street": 35
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 36,
+  "fields": {
+    "number": 8,
+    "title": "Московский",
+    "district_street": 36
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 37,
+  "fields": {
+    "number": 8,
+    "title": "Московский",
+    "district_street": 37
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 38,
+  "fields": {
+    "number": 8,
+    "title": "Московский",
+    "district_street": 38
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 39,
+  "fields": {
+    "number": 8,
+    "title": "Московский",
+    "district_street": 39
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 40,
+  "fields": {
+    "number": 8,
+    "title": "Московский",
+    "district_street": 40
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 41,
+  "fields": {
+    "number": 9,
+    "title": "Печерский",
+    "district_street": 41
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 42,
+  "fields": {
+    "number": 9,
+    "title": "Печерский",
+    "district_street": 42
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 43,
+  "fields": {
+    "number": 9,
+    "title": "Печерский",
+    "district_street": 43
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 44,
+  "fields": {
+    "number": 9,
+    "title": "Печерский",
+    "district_street": 44
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 45,
+  "fields": {
+    "number": 9,
+    "title": "Печерский",
+    "district_street": 45
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 46,
+  "fields": {
+    "number": 10,
+    "title": "Подольский",
+    "district_street": 46
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 47,
+  "fields": {
+    "number": 10,
+    "title": "Подольский",
+    "district_street": 47
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 48,
+  "fields": {
+    "number": 10,
+    "title": "Подольский",
+    "district_street": 48
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 49,
+  "fields": {
+    "number": 10,
+    "title": "Подольский",
+    "district_street": 49
+  }
+},
+{
+  "model": "districts.district",
+  "pk": 50,
+  "fields": {
+    "number": 10,
+    "title": "Подольский",
+    "district_street": 50
+  }
+}
+]

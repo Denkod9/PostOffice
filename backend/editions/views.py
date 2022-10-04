@@ -318,7 +318,7 @@ class CurrentEditionsView(APIView):
 
     def get(self, request, num1, num2):
         # получить объект из get_object
-        editions = Edition.objects.all()
+        editions = Edition.objects.all().order_by('id')
 
         edition = editions[num1:num2]
         serializer = EditionSerializer(edition, many=True)
